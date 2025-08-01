@@ -45,9 +45,9 @@
 ### 🌍 Connect with Me
 
 
--📧 Gmail: [rrimshid@gmail.com](mailto:rrimshid@gmail.com)
--🔗 LinkedIn: [rimshid-ali](https://www.linkedin.com/in/rimshid-ali/)
--🐦 Twitter: [@RimshidAli](https://x.com/RimshidAli)
+- 📧 Gmail: [rrimshid@gmail.com](mailto:rrimshid@gmail.com)
+- 🔗 LinkedIn: [rimshid-ali](https://www.linkedin.com/in/rimshid-ali/)
+- 🐦 Twitter: [@RimshidAli](https://x.com/RimshidAli)
 
 
 ---
