@@ -6,7 +6,7 @@
 <h1 align="center">Hey, What's Up 👋</h1>
 
 <p align="center">
-  <b>I am Rimshid Ali</b> from 🌴 <i>God's Own Country</i> Kerala, 🇮🇳 <br>
+  <b>I am Rimshid Ali</b> from 🌴 <i>God's Own Country</i> Kerala, India <br>
 </p>
 
 ---
