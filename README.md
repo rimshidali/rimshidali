@@ -7,8 +7,6 @@
 
 <p align="center">
   <b>I am Rimshid Ali</b> from 🌴 <i>God's Own Country</i> Kerala, 🇮🇳 <br>
-  🎓 M.Tech Artificial Intelligence | 2025 Graduate <br>
-  🏫 College of Engineering Trivandrum
 </p>
 
 ---
