@@ -1,6 +1,6 @@
 <!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Welcome gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Welcome gif">
 </p>
 
 <h1 align="center">Hey, What's Up 👋</h1>
