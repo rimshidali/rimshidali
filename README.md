@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 💡 Passionate about building end-to-end products, especially those powered by AI.
+- 💡 Interested in building products and AI research.
 - 🛠️ Experienced with Python-based machine learning, deep learning, and generative AI frameworks.
 - 🤝 Open to freelance work, collaborations, and exciting opportunities.
 
@@ -50,9 +50,3 @@
 
 ---
 
-### ✨ Fun Fact
-
-> I don't write code nowadays — I just direct AI to do it for me 🤖🧠  
-> Let’s build something awesome together!
-
----
