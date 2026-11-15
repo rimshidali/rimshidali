@@ -1,51 +1,44 @@
-<!-- Profile Banner GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Welcome gif">
+ <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI and technology animation">
 </p>
 
-<h1 align="center">Hey, What's Up 👋</h1>
+<h1 align="center">Hey, What's Up? 👋</h1>
 
 <p align="center">
-  <b>I am Rimshid Ali</b> from 🌴 <i>God's Own Country</i> Kerala, India <br>
+  <b>I'm Rimshid Ali</b> from 🌴 <i>God's Own Country, Kerala, India.</i>
+</p>
+
+<p align="center">
+  <i>Curious about intelligence. Obsessed with building things.</i>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 A Little About Me
 
-- 💡 Interested in building products and AI research.
-- 🛠️ Experienced with Python-based machine learning, deep learning, and generative AI frameworks.
-- 🤝 Open to freelance work, collaborations, and exciting opportunities.
+I spend my days exploring how machines can do what humans do naturally — perceive, reason, decide, and act.
 
----
+I'm fascinated by the possibilities of AI, from intelligent agents and AI-powered products to machines interacting with the physical world.
 
-### 🚀 Skills & Tools
+I enjoy taking ideas from research, experimenting with emerging technologies, and turning them into things people can actually use.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-2C5BB4?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-7CB9E8?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<!--![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) -->
----
+And ultimately, I'm all for making machines do the work so the rest of us can sit back and do absolutely nothing. 😄
 
-### 🌍 Connect with Me
+### 🚀 What I'm Exploring
 
+- **AI Products:** Building intelligent products that solve real-world problems.
+- **Agentic AI:** Exploring autonomous agents, reasoning, and tool-driven systems.
+- **Physical AI:** Bringing intelligence into robots and the physical world.
+- **AI Research:** Experimenting with emerging ideas and turning research into practical applications.
 
-- 📧 Gmail: [rrimshid@gmail.com](mailto:rrimshid@gmail.com)
-- 🔗 LinkedIn: [rimshid-ali](https://www.linkedin.com/in/rimshid-ali/)
-- 🐦 Twitter: [@RimshidAli](https://x.com/RimshidAli)
+### 🌍 Let's Connect
 
+- 📧 Email: [rrimshid@gmail.com](mailto:rrimshid@gmail.com)
+- 🔗 LinkedIn: [Rimshid Ali](https://www.linkedin.com/in/rimshid-ali/)
+- 🐦 X: [@RimshidAli](https://x.com/RimshidAli)
 
 ---
 
+<p align="center">
+  <i>Building things at the intersection of intelligence, technology, and imagination.</i>
+</p>
